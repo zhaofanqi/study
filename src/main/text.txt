@@ -1,1 +1,7 @@
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/gR2BQR06ONGSw2rkGQXkfV2/4YFSFYPrCfe6VW7K0mThT046FpZZGzZIScOOiFke3Va8vqQwj9D1GnN72TiPZhTFbw3TEUbQn2qFIIrJXU0OtqgzfA+YDcJm+s4d3B8p0zjAGiqxg7p6A5Bk+ToO5nLTY9ImmSG3zZo7rUE6/zxukPTqt9MN02EfGlaci5vjyrJO/G+dAWJknlo+AKE8OqKAPZDCHgo4cLIj/x58VQYKLl5bNmQcFxJxlaPPtIgJ1bI5sd/+r8XiWZV3EaQE+18kTWJ8IVOqOXjl4Zj1Pud452DShUYXZZBBxeD67x0bnCk+wVi9A75kQ/u609JB     zfq_job@126.com
+http://github.com 204.232.175.94
+http://gist.github.com 107.21.116.220
+http://help.github.com 207.97.227.252
+http://nodeload.github.com 199.27.76.130
+http://raw.github.com 107.22.3.110
+http://status.github.com 204.232.175.78
+http://training.github.com 207.97.227.243 http://www.github.com
